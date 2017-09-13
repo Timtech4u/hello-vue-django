@@ -10,6 +10,10 @@ This is a boilerplate project for using vuejs with Django.
 * eslint linter integration
 * Makefile to make your life easy
 
+### Start Project
+Run the following command to start a new project, change projectname to your project's name:
+`django-admin startproject projectname --template https://github.com/timtech4u/hello-vue-django/archive/master.zip`
+
 
 ### Development environment setup
 
