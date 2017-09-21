@@ -46,3 +46,6 @@ You probably want to create python virtual environment as well. Default python i
 If you'll be building an API endpoint you'll probably need to setup Django Cors...
 
 Full Instructions can be found at: https://github.com/ottoyiu/django-cors-headers
+
+### UI Frameworks
+Checkout: https://cssauthor.com/vuejs-frameworks/
